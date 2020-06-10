@@ -5,7 +5,7 @@ game = {
   :home => {
     :team_name => "Brooklyn Nets",
     :colors => "Black, White",
-    :players => [
+    :players => {
       "Alan Anderson" => {
         :number => 0,
         :shoe => 16,
@@ -56,7 +56,7 @@ game = {
         :blocks => 11,
         :slam_dunks => 1
       }
-  }
+    }
   },
   
   :away => {

@@ -56,13 +56,13 @@ game = {
         :blocks => 11,
         :slam_dunks => 1
       }
-      ]
+  }
   },
   
   :away => {
     :team_name => "Charlotte Hornets",
     :colors => "Turquoise, Purple",
-    :players => [
+    :players => {
       "Jeff Adrien" => {
         :number => 4,
         :shoe => 18,
@@ -113,7 +113,7 @@ game = {
         :blocks => 5,
         :slam_dunks => 12
       },
-      ]
+    }
   }
 }
 

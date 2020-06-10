@@ -7,7 +7,7 @@ game = {
     :colors => "Black, White",
     :players => [
       {
-      "Alan Anderson" => 
+        :player_name => "Alan Anderson"
         :number => 0,
         :shoe => 16,
         :points => 22,

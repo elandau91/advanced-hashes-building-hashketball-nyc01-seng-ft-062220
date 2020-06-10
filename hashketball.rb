@@ -46,11 +46,11 @@ game = {
         :blocks => 8,
         :slam_dunks => 5
       },
-      "Mason Plu" => {
-        :number => 1,
-        :shoe => 19,
-        :points => 26,
-        :rebounds => 11,
+      "Jason Terry" => {
+        :number => 31,
+        :shoe => 15,
+        :points => 19,
+        :rebounds => 2,
         :assists => 6,
         :steals => 3,
         :blocks => 8,

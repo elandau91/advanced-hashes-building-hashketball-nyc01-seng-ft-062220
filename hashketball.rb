@@ -51,18 +51,12 @@ game = {
         :shoe => 15,
         :points => 19,
         :rebounds => 2,
-        :assists => 6,
-        :steals => 3,
-        :blocks => 8,
-        :slam_dunks => 5
-      },
-      
+        :assists => 2,
+        :steals => 4,
+        :blocks => 11,
+        :slam_dunks => 1
+      }
       ]
-    
-    
-    
-    
-    
   },
   
   :away => {
